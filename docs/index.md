@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "Ben DeVries"
   text: "Fullstack Web Developer"
-  tagline: My great project tagline
+  tagline: 🚧 Under construction--bear with me 🚧
   actions:
     - theme: brand
       text: Markdown Examples
