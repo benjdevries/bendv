@@ -4,7 +4,6 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "Ben DeVries",
   description: "Fullstack Web Developer",
-  base: "/bendv/",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
